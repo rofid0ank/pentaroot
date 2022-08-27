@@ -1,17 +1,17 @@
-# Pentaroot
-Pentaroot adalah program sederhana, dimana program ini dibuat semata-mata hanya untuk mempermudah anda dalam proses penginstalan kebutuhan-kebutuhan yang ada di Linux.
+# pentaroot
+pentaroot adalah program sederhana, dimana program ini dibuat semata-mata hanya untuk mempermudah anda dalam proses penginstalan kebutuhan-kebutuhan yang ada di linux.
 <details>
 <summary>Contoh kebutuhan</summary>
   
-- [x] Fcrackzip
-- [x] GoldenEye
-- [x] Ip Tracer
-- [x] Nmap
-- [x] Oh My Zsh
-- [x] Pwnloris
-- [x] Python3
-- [x] Redhawk
-- [x] Rockyou
-- [x] Xerxes
+- [x] fcrackzip
+- [x] goldeneye
+- [x] ip tracer
+- [x] nmap
+- [x] oh my zsh
+- [x] pwnloris
+- [x] python3
+- [x] redhawk
+- [x] rockyou
+- [x] xerxes
   
 </details>
