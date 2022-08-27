@@ -1,7 +1,7 @@
 # Pentaroot
 Pentaroot adalah program sederhana, dimana program ini dibuat semata-mata hanya untuk mempermudah anda dalam proses penginstalan kebutuhan-kebutuhan yang ada di Linux.
 <details>
-<summary>## Contoh kebutuhan</summary>
+## Contoh kebutuhan
   
 - [x] Fcrackzip
 - [x] GoldenEye
