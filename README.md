@@ -1,6 +1,6 @@
 # Pentaroot
-Pentaroot adalah program sederhana, dimana program ini dibuat semata-mata hanya untuk mempermudah proses penginstalan sebuah alat-alat di linux.
-## List alat
+Pentaroot adalah program sederhana, dimana program ini dibuat semata-mata hanya untuk mempermudah anda dalam proses penginstalan kebutuhan-kebutuhan yang ada di linux.
+## Contohnya 
 - [x] fcrackzip
 - [x] goldeneye
 - [x] ip tracer
