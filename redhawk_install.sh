@@ -5,7 +5,7 @@
 +-----------------------------+
 "
 
-install_xerxes()
+install_redhawk()
 {
   clear
   echo ""
@@ -27,4 +27,4 @@ install_xerxes()
   echo ""
 }
 
-install_xerxes
+install_redhawk
